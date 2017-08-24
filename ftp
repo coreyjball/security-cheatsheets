@@ -16,5 +16,5 @@ Client initiates control session on port 21 and leaves port 20 open for the serv
 ***If client is behind a firewall, or NAT, then the sever might not be able to connect to send data.
 
 #Passive mode
-Server gives teh client a port to initiate a connection to for data transfer.
+Server gives the client a port to initiate a connection to for data transfer.
 ***Most commonly used by browsers, ect.
